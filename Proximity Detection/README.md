@@ -1,0 +1,1 @@
+This directory consists of the proximity based detection of system.

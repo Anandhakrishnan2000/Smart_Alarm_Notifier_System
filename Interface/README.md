@@ -1,0 +1,1 @@
+This directory contains the Graphical user interface of the system.
